@@ -17,4 +17,5 @@ Usage in Project: CSS will style the layout of the portfolio, ensuring that it i
 This includes styling the navigation bar, ensuring smooth transitions between sections, and enhancing the overall appearance of the page with colors, fonts, and spacing. Additionally, CSS will be used to implement the smooth scrolling effect when users click on navigation links, improving user experience.
 
 
- link for the project ---------------https://omarmhiri1998.github.io/portfolio_project/portfolio_project/html_folder/index.html--------------
+ link for the project :
+ https://omarmhiri1998.github.io/portfolio_project/portfolio_project/html_folder/index.html
